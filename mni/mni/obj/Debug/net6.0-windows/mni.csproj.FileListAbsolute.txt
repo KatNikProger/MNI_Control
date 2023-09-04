@@ -1,0 +1,56 @@
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.Form1.resources
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\mni.exe
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\mni.deps.json
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\mni.runtimeconfig.json
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\mni.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\mni.pdb
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.csproj.CopyComplete
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\refint\mni.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.pdb
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\mni.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\obj\Debug\net6.0-windows\ref\mni.dll
+C:\Users\Nikita\Desktop\ProjectDB MNI\mni\mni\bin\Debug\net6.0-windows\Mni.dll.config
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\Mni.exe
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\Mni.dll.config
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\Mni.deps.json
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\Mni.runtimeconfig.json
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\Mni.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\Mni.pdb
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\System.DirectoryServices.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.Form1.resources
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.csproj.CopyComplete
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\refint\Mni.dll
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.pdb
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\Mni.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\MNI_Control\mni\mni\obj\Debug\net6.0-windows\ref\Mni.dll
